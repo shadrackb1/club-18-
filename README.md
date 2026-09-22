@@ -1,10 +1,12 @@
-﻿# club 18
+# Club 18+
 
-Club 18+ | Exclusive Private Connections
+Age-gated private social platform demo.
+
+**Status:** prototype
 
 ## Stack
 
-react Â· vite Â· typescript Â· tailwindcss Â· firebase
+React, TypeScript, Vite, Tailwind, Firebase
 
 ## Run locally
 
@@ -13,4 +15,4 @@ react Â· vite Â· typescript Â· tailwindcss Â· firebase
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
